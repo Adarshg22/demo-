@@ -5,4 +5,4 @@ This is demo class for git &amp; github Tutorial.
 Shraddha Khapra
 
 # Student 
-Adarsh Gupta
+Adarsh Gupta.
